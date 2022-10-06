@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @prof-awis
-- 👀 I’m interested in web development, data science, cloud computing, cyber security and IOT.
+- 👋 Hi, I’m Emanuel.
+- 👀 I’m interested in web development, data science, cloud computing, networking, cyber security and IOT.
 - 🌱 I’m currently learning JavaScript.
 
 <!---
