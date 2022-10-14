@@ -1,6 +1,6 @@
 ### Hi there,  it's Prof Awis here👋
 <div id="header" align="center">
-<img src = './man_has_to_code.jpg' width= "500" height = "250"/>
+<img src = '/home/prof_awis/Pictures/Screenshot from Full Documentary_ Dark Web.mp4 - 1.png' width= "500" height = "250"/>
 </div>
   
 - 👋 Hi, I’m Emanuel.
