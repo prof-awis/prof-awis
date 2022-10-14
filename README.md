@@ -2,10 +2,11 @@
 <div id="header" align="center">
 <img src = '/home/prof_awis/Pictures/Screenshot from Full Documentary_ Dark Web.mp4 - 1.png' width= "500" height = "250"/>
 </div>
-  
+ <br><br>
 - 👋 Hi, I’m Emanuel.
 - 👀 I’m interested in web development, data science, cloud computing, networking, cyber security and IOT.
 - 🌱 I’m currently learning JavaScript.
+<br>
 
 <!---
 prof-awis/prof-awis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=prof-awis&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prof-awis&hide=TeX&layout=compact&theme=buefy&hide_border=true) 
+<br>
 
 ### Skills
 
@@ -22,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 </p>
+<br>
 
  ### Socials
                   
@@ -31,6 +34,7 @@ You can click the Preview link to take a look at your changes.
                          
 <a href="https://www.linkedin.com/in/awino-emanuel-98593a238/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
+ <br>
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/prof-awis"><img src="https://github-readme-stats.vercel.app/api?username=prof-awis&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Prof Awis GitHub stats" /></a>
