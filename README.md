@@ -10,8 +10,14 @@
 - 🌱 I’m currently learning JavaScript.
 -  ⚡ Fun fact: Google hires goats😄. (https://webtribunal.net/blog/facts-about-technology/)
 <br>
-<!-- ![Jokes Card](https://readme-jokes.vercel.app/api)
-<br><br> -->
+
+### Random Programming Jokes
+ <img src="https://media.giphy.com/media/l41lISBVXb9gRT32w/giphy.gif" width="300" alt="jokes GIF">
+ 
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api). -->
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+
+<br>
 
 <!---
 prof-awis/prof-awis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
