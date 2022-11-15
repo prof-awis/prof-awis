@@ -17,7 +17,6 @@
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api). -->
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
-<br>
 
 <!---
 prof-awis/prof-awis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
