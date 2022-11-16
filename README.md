@@ -8,7 +8,7 @@
 - 👀 I’m interested in web development, data science, cloud computing, networking, cyber security and IOT.
 - 👯 I’m looking to collaborate on python and JavaScript projects
 - 🌱 I’m currently learning JavaScript.
--  ⚡ Fun fact: Google hires goats😄. (https://webtribunal.net/blog/facts-about-technology/)
+-  ⚡ Fun fact: [Google hires goats😄.](https://webtribunal.net/blog/facts-about-technology/)
 <br>
 
 ### Random Programming Jokes
