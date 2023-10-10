@@ -46,6 +46,18 @@ You can click the Preview link to take a look at your changes.
             <span><strong>CSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
+           <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+           </td>
+         <td width="80px" align="center">
+            <span><strong>Tailwindcss</strong></span><br>
+            <img  height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+          </td>
+         <td width="80px" align="center">
+            <span><strong>Nextjs</strong></span><br>
+            <img  height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+          </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
@@ -63,6 +75,14 @@ You can click the Preview link to take a look at your changes.
             <span><strong>Canva</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
             </td>
+          <td width="80px" align="center">
+            <span><strong>Bootstrap</strong></span><br>
+            <img  height="32px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+          </td> 
+         <td width="80px" align="center">
+            <span><strong>Figma</strong></span><br>
+            <img  height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+          </td>
         </tr>
     </tbody>
 </table>
