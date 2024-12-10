@@ -4,10 +4,10 @@
 <div id="header" align="center"></div>
  <br>
  
-- 👋 Hi, I’m Emanuel.
-- 👀 I’m interested in web development, data science, cloud computing, networking, cyber security and IOT.
-- 👯 I’m looking to collaborate on python and JavaScript projects
-- 🌱 I’m currently learning Python and JavaScript.
+- 👋 Hi, I’m Prof.
+- 👀 I’m interested in Web development, mobile development, UI/UX design and Graphic Design.
+- 👯 I’m looking to collaborate on React and React Native projects.
+- 🌱 I’m currently learning React Native.
 -  ⚡ Fun fact: [Google hires goats😄.](https://webtribunal.net/blog/facts-about-technology/)
 <br>
 
